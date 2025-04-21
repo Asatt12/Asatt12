@@ -1,16 +1,22 @@
-## Hi there 👋
+## # AidenSatterfield-Portfolio
+Welcome to my GitHub! I'm an upcoming Master’s student in Cybersecurity at George Washington University, and a previous cybersecurity major and student athlete at Walsh University. I'm passionate about securing digital systems and bridging tech with policy. Originally from Charleston, WV, I bring a unique perspective shaped by my U.S. Senate internship, IT department experience at the state government level, technical writing, and leadership as Black Student Union president.
 
-<!--
-**Asatt12/Asatt12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- **Education**: M.S. in Cybersecurity (GWU, 2025–2027); B.S. in Cybersecurity (Walsh University, 2025)
+- **Experience**:
+  - U.S. Senate Internship: Analyzed cyber vulnerabilities for Senator Joe Manchin’s subcommittee.
+  - West Virginia Tax Department: Conducted risk assessments with Rapid7’s InsightVM.
+  - Black By God (*BBG Tech*): Write on cybersecurity policy and tech equity.
+- **Skills**: Python, Wireshark, Nessus, Metasploit, Linux, policy analysis, risk assessment.
+- **Goal**: Work in cybersecurity for the federal government, securing systems equitably.
 
-Here are some ideas to get you started:
+## Projects
+-Coming soon :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: aidensatterfield577@gmail.com
+- LinkedIn: [www.linkedin.com/in/aiden-satterfield-9b8550239)
+- Blog: [BBG Tech articles](https://blackbygod.org/articles/author/aiden/)
+
+Explore my projects to see my technical and policy skills in action. I’m excited to contribute to a safer digital future!
+
