@@ -1,5 +1,5 @@
 Aiden Satterfield
-Welcome to my GitHub! I'm an upcoming Master’s student in Cybersecurity at George Washington University, and a previous cybersecurity major and student athlete at Walsh University. I'm passionate about securing digital systems and bridging tech with policy. Originally from Charleston, WV, I bring a unique perspective shaped by my U.S. Senate internship, IT department experience at the state government level, technical writing, and leadership as Black Student Union president.
+Welcome to my GitHub! I'm an upcoming Master’s student in Cybersecurity at New York University, and a previous cybersecurity major and student athlete at Walsh University. I'm passionate about securing digital systems and bridging tech with policy. Originally from Charleston, WV, I bring a unique perspective shaped by my U.S. Senate internship, IT department experience at the state government level, technical writing, and leadership as Black Student Union president.
 
 ## About Me
 - **Education**: M.S. in Cybersecurity (GWU, 2025–2027); B.S. in Cybersecurity (Walsh University, 2025)
