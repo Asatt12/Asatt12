@@ -1,5 +1,5 @@
 Aiden Satterfield
-Welcome to my GitHub! I'm an upcoming Master’s student in Cybersecurity at New York University, and a previous cybersecurity major and student athlete at Walsh University. I'm passionate about securing digital systems and bridging tech with policy. Originally from Charleston, WV, I bring a unique perspective shaped by my U.S. Senate internship, IT department experience at the state government level, technical writing, and leadership as Black Student Union president.
+Welcome to my GitHub! I'm a Master’s student in Cybersecurity at New York University, and a previous cybersecurity major and student athlete at Walsh University. I'm passionate about securing digital systems and bridging tech with policy. Originally from Charleston, WV, I bring a unique perspective shaped by my U.S. Senate internship, IT department experience at the state government level, technical writing, and leadership as Black Student Union president.
 
 ## About Me
 - **Education**: M.S. in Cybersecurity (NYU, 2025–2027); B.S. in Cybersecurity (Walsh University, 2025)
@@ -11,12 +11,14 @@ Welcome to my GitHub! I'm an upcoming Master’s student in Cybersecurity at New
 - **Goal**: Work in cybersecurity security highly sensitive data, securing systems equitably.
 
 ## Projects
--Coming soon :)
+SuppGo: Built SupGo, an AI visibility platform that helps health and supplement brands understand how products appear in tools like ChatGPT, Claude, etc
+- Developed systems to compare LLM recommendations against structured product data, brand websites, and verified facts to identify ranking gaps, misinformation, and missed opportunities.
+- Focused on turning AI search behavior into business insights, helping brands improve discoverability, trust, and conversion in the new AI-driven consumer search economy.
 
 ## Contact
 - Email: aidensatterfield577@gmail.com
 - LinkedIn: [www.linkedin.com/in/aiden-satterfield-9b8550239)
 - Blog: [BBG Tech articles](https://blackbygod.org/articles/author/aiden/)
 
-Explore my projects to see my technical and policy skills in action. I’m excited to contribute to a safer digital future!
+
 
